@@ -52,7 +52,6 @@ st.markdown(str(footerText), unsafe_allow_html=True)
 
 @st.cache_data
 def model_file():
-    mfile = 'model_rf.pkl.gz'
     with gzip.open('model_rf.pkl.gz', 'rb') as f:
         model = pickle.load(f)
 

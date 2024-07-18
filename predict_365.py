@@ -4,10 +4,7 @@ import streamlit as st
 import time
 from PIL import Image
 import gzip
-pip install scikit-learn 
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import GridSearchCV
-from sklearn.model_selection import train_test_split
+from datetime import datetime 
 
 # st.set_page_config(layout="wide")
 

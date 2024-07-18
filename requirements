@@ -5,3 +5,4 @@ pickle
 time
 Image
 gzip
+sklearn

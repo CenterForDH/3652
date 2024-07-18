@@ -1,9 +1,6 @@
 streamlit
 numpy
 pandas
-pickle
+pillow
 time
-Image
-gzip
-sklearn
 scikit-learn

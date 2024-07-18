@@ -2,5 +2,4 @@ streamlit
 numpy
 pandas
 pillow
-time
 scikit-learn
